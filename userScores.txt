@@ -1,0 +1,8 @@
+Ann, 400
+Benny, 10200
+Carol, 21400
+Darren, 1200
+Edward, 300
+Alex, 200
+Mahmud, 100
+Elle, 200
